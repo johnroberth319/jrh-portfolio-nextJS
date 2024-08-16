@@ -18,7 +18,7 @@ const Main = () => {
           </p>
           <AnimatedText
             text="Hi, I'm"
-            secondaryText="Irvin"
+            secondaryText="John Robert"
             className="py-4 text-gray-700 dark:text-gray-300 items-center self-center justify-center"
             secondaryClassName="text-[#2e5dba] dark:text-[#378ee6]"
           />
