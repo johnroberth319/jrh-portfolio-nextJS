@@ -29,16 +29,14 @@ const Main = () => {
             secondaryClassName=""
           />
           <p className="py-4 text-gray-600 dark:text-gray-300 max-w-[70%] m-auto">
-            I&apos;m a Computer Science Major, concentrating in Cybersecurity &
-            AI. During Summer of 2023, I interned for Google under the Avid Ads
-            Infrastructure Team
+            I&apos;m a Computer Science Major
           </p>
           <div className="flex items-center justify-between max-w-[290px] m-auto py-4">
             <IconContext.Provider
               value={{ className: "shared-class", size: "25px" }}
             >
               <a
-                href="https://www.linkedin.com/in/irvinfavorsjr/"
+                href="https://www.linkedin.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -47,7 +45,7 @@ const Main = () => {
                 </div>
               </a>
               <a
-                href="https://github.com/IrvinFavors"
+                href="https://github.com/johnroberth319"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -56,7 +54,7 @@ const Main = () => {
                 </div>
               </a>
               <a
-                href="mailto:irvin.favors@gmail.com"
+                href="mailto:johnrhernandez319@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >

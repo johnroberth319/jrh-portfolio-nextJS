@@ -54,6 +54,12 @@ const Projects = () => {
             projectUrl="/portfolio"
             type="NextJS | JavaScript | TypeScript"
           />
+          <ProjectItem
+            title="Test JRH"
+            backgroundImg={portfolioImg}
+            projectUrl="/testjrh"
+            type="NextJS | JavaScript | TypeScript"
+          />
         </div>
       </div>
     </div>
